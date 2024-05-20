@@ -1,0 +1,14 @@
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\bin\Debug\net8.0\ExercicoProposto1.exe
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\bin\Debug\net8.0\ExercicoProposto1.deps.json
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\bin\Debug\net8.0\ExercicoProposto1.runtimeconfig.json
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\bin\Debug\net8.0\ExercicoProposto1.dll
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\bin\Debug\net8.0\ExercicoProposto1.pdb
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.AssemblyInfoInputs.cache
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.AssemblyInfo.cs
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.csproj.CoreCompileInputs.cache
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.dll
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\refint\ExercicoProposto1.dll
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.pdb
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ExercicoProposto1.genruntimeconfig.cache
+C:\Users\Diego.DESKTOP-GMUOML4\source\repos\ExercicoProposto1\ExercicoProposto1\obj\Debug\net8.0\ref\ExercicoProposto1.dll
